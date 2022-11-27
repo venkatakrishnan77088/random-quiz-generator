@@ -5,7 +5,7 @@ function getRandomNumber(max){
 }
 
 
-function problem341(){
+function problem141(){
 	var inputData = [{
 		'distance': 10,
 		'time': 60,
@@ -56,7 +56,7 @@ function problem341(){
 
 
 
-function problem342(){
+function problem142(){
 	var inputData = [{
 		'distance': 60,
 		'speed': 10
@@ -105,7 +105,7 @@ function problem342(){
 	
 }
 
-function problem343(){
+function problem143(){
 	var inputData = [{
 		'time': 60,
 		'speed': 10
@@ -154,7 +154,7 @@ function problem343(){
 }
 
 
-function problem344(){
+function problem144(){
 	var inputData = [{
 		'correctinput': 60,
 		'wronginput': 10
@@ -203,7 +203,7 @@ function problem344(){
 
 
 
-function problem345(){
+function problem145(){
 	var inputData = [{
 		'costprice': 2000,
 		'loss': 10
@@ -249,7 +249,7 @@ function problem345(){
 }
 
 
-function problem346(){
+function problem146(){
 	var inputData = [{
 		'costprice': 1540,
 		'profit': 25
@@ -294,7 +294,7 @@ function problem346(){
 	
 }
 
-function problem347(){
+function problem147(){
 	var inputData = [{
 		'A': 3,
 		'B': 2,
@@ -355,7 +355,7 @@ function problem347(){
 }
 
 
-function problem348(){
+function problem148(){
 	var inputData = [{
 		'costprice': 1540,
 		'profit': 25
@@ -400,7 +400,7 @@ function problem348(){
 	
 }
 
-function problem349(){
+function problem149(){
 	var inputData = [{
 		'principle': 35000,
 		'interest': 9,
@@ -450,7 +450,7 @@ function problem349(){
 	
 }
 
-function problem350(){
+function problem1410(){
 	var inputData = [{
 		'costprice': 2000,
 		'loss': 10
@@ -496,7 +496,7 @@ function problem350(){
 }
 
 
-function problem351(){
+function problem1411(){
 		var inputData = [{
 		'manspeed': 15,
 		'currentspeed': 1.5
@@ -542,7 +542,7 @@ function problem351(){
 }
 
 
-function problem352(){
+function problem1412(){
 	var inputData = [{
 		's1': 815,
 		's2': 854,
@@ -601,7 +601,7 @@ function problem352(){
 
 
 
-function problem353(){
+function problem1413(){
 		var inputData = [{
 		's1': 15,
 		's2': 4,
@@ -654,7 +654,7 @@ function problem353(){
 
 
 
-function problem354(){
+function problem1414(){
 	var inputData = [{
 		'price1': 500,
 		'price2': 15,
@@ -703,7 +703,7 @@ function problem354(){
 }
 
 
-function problem355(){
+function problem1415(){
 	var inputData = [{
 		's1': 815,
 		's2': 854,
@@ -762,7 +762,7 @@ function problem355(){
 
 
 
-function problem356(){
+function problem1416(){
 	var inputData = [{
 		'costprice': 1400,
 		'loss': 85
@@ -806,7 +806,7 @@ function problem356(){
 }
 
 
-function problem357(){
+function problem1417(){
 	var inputData = [{
 		'costprice': 1400,
 		'sellingprice': 1800
@@ -851,7 +851,7 @@ function problem357(){
 }
 
 
-function problem358(){
+function problem1418(){
 	var inputData = [{
 		'boatspeed': 14,
 		'streamspeed': 12
@@ -896,7 +896,7 @@ function problem358(){
 
 
 
-function problem359(){
+function problem1419(){
 	var inputData = [{
 		'upstreamspeed': 14,
 		'downstreamspeed': 12
@@ -941,7 +941,7 @@ function problem359(){
 
 
 
-function problem360(){
+function problem1420(){
 	var inputData = [{
 		'upstreamspeed': 14,
 		'downstreamspeed': 12
